@@ -2,7 +2,7 @@
 
 int main(void)
 {
-    int action;
+    int action = 0;
     int event = 1;
 
     printf( "魔王が現れました。\nあなたはどうする？\n" );
